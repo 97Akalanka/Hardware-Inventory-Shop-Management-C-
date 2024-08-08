@@ -1,0 +1,22 @@
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\bin\Debug\Hardware Store Inventory Management System.exe
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\bin\Debug\Hardware Store Inventory Management System.pdb
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware Store Inventory Management System.csproj.AssemblyReference.cache
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.Login.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.Properties.Resources.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware Store Inventory Management System.csproj.GenerateResource.cache
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware Store Inventory Management System.csproj.CoreCompileInputs.cache
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware Store Inventory Management System.exe
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware Store Inventory Management System.pdb
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.MainForm.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.UserForm.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.UserModuleForm.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.CustomerForm.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.CustomerModuleForm.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.CategoryForm.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.CategoryModuleForm.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.ItemsForm.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.ItemsModuleForm.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.OderForm.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.OderModuleForm.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.CustomButtons.resources
+D:\BIT\2nd Semester\ICT Project\Hardware Store Inventory Management System\Hardware Store Inventory Management System\obj\Debug\Hardware_Store_Inventory_Management_System.Welcome.resources
